@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textotil/static/css/main.268c9472.css",
+    "main.js": "/textotil/static/js/main.8db4d652.js",
+    "static/js/787.69cfb7c6.chunk.js": "/textotil/static/js/787.69cfb7c6.chunk.js",
+    "index.html": "/textotil/index.html",
+    "main.268c9472.css.map": "/textotil/static/css/main.268c9472.css.map",
+    "main.8db4d652.js.map": "/textotil/static/js/main.8db4d652.js.map",
+    "787.69cfb7c6.chunk.js.map": "/textotil/static/js/787.69cfb7c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.268c9472.css",
+    "static/js/main.8db4d652.js"
+  ]
+}
